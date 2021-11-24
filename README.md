@@ -6,4 +6,4 @@ The data extracted is then saved into a JSON file (best_selling_games.json).
 
 Finally PowerBI was used to visualise the data saved.
 
-![Alt text](/PowerBI_report/best_selling_games_pbi_report.png?raw=true "best selling games")
+![Alt text](/PowerBI_report/best_selling_games_pbi_report.png?raw=true "best selling games report")
