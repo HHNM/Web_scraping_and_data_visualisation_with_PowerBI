@@ -4,6 +4,6 @@ Scraping wikipedia web page,using Beautiful Soup python library. The page contai
 
 The data extracted is then saved into a JSON file (best_selling_games.json).
 
-Finally PowerBI was used to visualise the data saved.
+Finally PowerBI was used to visualize the data saved.
 
 ![Alt text](/PowerBI_report/best_selling_games_pbi_report.png?raw=true "best selling games report")
